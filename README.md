@@ -62,5 +62,5 @@ The analysis revealed that sales in 2010 were inflated by extremely high return 
 - `08-Products-Performance-Analysis.sql` → Product performance analysis
 - `09-Returns-Analysis.sql` → Returns analysis
 - `10-Time-Series-Analysis.sql` → Trend & seasonality analysis
-- `17-Sales Performance Analysis.pbix` → Power BI dashboard
+- `17-E-Commerce Retail Analytics.pbix` → Power BI dashboard
 - `18-Final Report.docx` → Full business report
