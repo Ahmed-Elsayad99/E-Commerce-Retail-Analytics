@@ -48,13 +48,13 @@ The analysis revealed that sales in 2010 were inflated by extremely high return 
 ![Anomalies](15-Dashboard-Anomalies.png)
 
 ### Orders Details
-
+![Orders Details](16-Dashboard-Orders-Details.png)
 
 ### Customers Details
-
+![Customers Details](17-Dashboard-Customers-Details.png)
 
 ### Data Model
-
+![Data Model](18-Dashboard-Data-Model.png)
 
 ## Project Files
 
