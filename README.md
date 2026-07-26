@@ -42,7 +42,7 @@ The analysis revealed that sales in 2010 were inflated by extremely high return 
 ![Customers Behavior](13-Dashboard-Customers-Behavior.png)
 
 ### Product Performance
-![Product Performance](14-Dashboard-Product-Performance.png)
+![Product Performance](14-Dashboard-Products-Performance.png)
 
 ### Anomalies Detection
 ![Anomalies](15-Dashboard-Anomalies.png)
