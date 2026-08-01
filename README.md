@@ -1,4 +1,4 @@
-# Sales Performance Analysis
+# E-Commerce Retail Analytics
 
 ## Project Overview
 This project analyzes sales performance using SQL and Power BI to understand the drivers behind a year-over-year sales decline.
