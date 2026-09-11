@@ -36,25 +36,25 @@ The analysis revealed that sales in 2010 were inflated by extremely high return 
 ![Home Page](PowerBI_ScShots/11-Dashboard-Home-Page.png)
 
 ### Executive Summary
-![Executive Summary](12-Dashboard-Executive-Summary.png)
+![Executive Summary](PowerBI_ScShots/12-Dashboard-Executive-Summary.png)
 
 ### Customer Behavior
-![Customers Behavior](13-Dashboard-Customers-Behavior.png)
+![Customers Behavior](PowerBI_ScShots/13-Dashboard-Customers-Behavior.png)
 
 ### Product Performance
-![Product Performance](14-Dashboard-Products-Performance.png)
+![Product Performance](PowerBI_ScShots/14-Dashboard-Products-Performance.png)
 
 ### Anomalies Detection
-![Anomalies](15-Dashboard-Anomalies.png)
+![Anomalies](PowerBI_ScShots/15-Dashboard-Anomalies.png)
 
 ### Orders Details
-![Orders Details](16-Dashboard-Orders-Details.png)
+![Orders Details](PowerBI_ScShots/16-Dashboard-Orders-Details.png)
 
 ### Customers Details
-![Customers Details](17-Dashboard-Customers-Details.png)
+![Customers Details](PowerBI_ScShots/17-Dashboard-Customers-Details.png)
 
 ### Data Model
-![Data Model](18-Dashboard-Data-Model.png)
+![Data Model](PowerBI_ScShots/18-Dashboard-Data-Model.png)
 
 ## Project Files
 
