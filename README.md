@@ -33,7 +33,7 @@ The analysis revealed that sales in 2010 were inflated by extremely high return 
 
 ## Dashboard Preview
 ### Home Page
-![Home Page](11-Dashboard-Home-Page.png)
+![Home Page](PowerBI_ScShots/11-Dashboard-Home-Page.png)
 
 ### Executive Summary
 ![Executive Summary](12-Dashboard-Executive-Summary.png)
